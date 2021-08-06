@@ -176,3 +176,47 @@
     right: -220px;
     top: -140px;
 }
+
+body{
+	background: url(images/background.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+}
+
+DIV.arrow1{
+	position: absolute;
+	top:80px;
+	left:500px;
+}
+
+DIV.arrow2{
+	position: absolute;
+	top:260px;
+	left:500px;
+}
+
+DIV.arrow3{
+	position: absolute;
+	top:420px;
+	left:500px;
+}
+
+DIV.arrow4{
+	position: absolute;
+	top:540px;
+	left:500px;
+}
+
+DIV.arrow5{
+	position: absolute;
+	top:660px;
+	left:500px;
+}
+
+li.main{
+	background: url(file:///C|/Users/gelbi/Desktop/OUTLINE%20CSS/images/paper.jpg);
+	border: ridge;
+	border-color: Teal;
+	top: 90px;
+	width:480px;
+}
